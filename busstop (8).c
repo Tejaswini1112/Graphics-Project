@@ -2639,7 +2639,7 @@ glRasterPos3f(700,250+100,0);
 for(k=0;k<strlen(string2);k++)
         glutBitmapCharacter(font2,string2[k]);
 
-char string3[]="TARUN KUMAR CM";
+char string3[]="TEJASWINI ABBURI";
 void *font3=GLUT_BITMAP_HELVETICA_18;
 
 glColor3f(0.0,0.0,0.0);
@@ -2654,7 +2654,7 @@ for(k=0;k<strlen(string3);k++)
 
 
 
-char string4[]="SHOBITH G";
+char string4[]="BRUHATHI REDDY G";
 void *font4=GLUT_BITMAP_HELVETICA_18;
 
 glColor3f(0.0,0.0,0.0);
